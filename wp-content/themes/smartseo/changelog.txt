@@ -1,0 +1,43 @@
+Version 1.6.1
+         + Social login improved
+         + All plugins Updated
+
+Version 1.6
+         + All plugins Updated
+         + Updated Slider Revolution 5.2.5.1
+         + Slides Updated for Slider Revolution 5.2.5.1
+         + TGMPA Updated
+         + Google Map update
+
+Version 1.5.2
+      + Plugins included into the theme are updated to their latest versions
+      + Wordpress 4.5 ready
+
+
+Version 1.5.1
+        + VC plugin update
+        + Updated: Child theme
+        + Instagram plugin update
+        + Events calendar plugin update
+        + Twitter widgets fixed
+
+Version 1.4
+        + VC plugin update
+
+Version 1.3
+        + VC content duplication fixed
+        + VC plugin update
+
+Version 1.2
+        * Updated: Documentation
+        * Updated: Dummy content
+        * Updated: Child theme
+        * Updated: prettyPhoto v3.1.6
+        * Updated: visual composer v4.5.3
+        + Added: Custom 'check your site' form
+
+Version 1.1
+		+ Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+
+Version 1.0
+	Release
